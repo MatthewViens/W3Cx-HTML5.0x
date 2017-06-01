@@ -1,0 +1,10 @@
+Compare and contrast these two different HTML Style Guides:
+- JQuery - https://contribute.jquery.org/style-guide/html
+- Google - https://google.github.io/styleguide/htmlcssguide.html
+Are they consistent with each other? Are there some rules that don't seem to make sense?
+
+Consistent
+- Only use lowercase
+- No trailing whitespace
+- Always UTF-8 encoding
+- Separation of concerns

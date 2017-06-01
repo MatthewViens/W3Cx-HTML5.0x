@@ -1,0 +1,7 @@
+Does an attribute called src exist? What is the purpose of this attribute and
+what are the elements it can be applied to?
+
+The src attribute provides the address of the resource.
+
+Elements:
+audio, embed, iframe, img, input, script, source, track, video

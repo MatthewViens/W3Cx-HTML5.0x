@@ -1,0 +1,5 @@
+Can you think of different scenarios where you would use target values '_self'
+and '_blank'?
+
+It would be better to use target='_blank' when you expect the user to return
+to the current page after exploring the link.

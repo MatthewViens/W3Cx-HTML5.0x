@@ -1,0 +1,10 @@
+Test the anchor element by providing broken or invalid links. How does the
+browser respond?
+
+The browser gives an error:
+
+This site can’t be reached
+
+... server DNS address could not be found.
+Search Google for ...
+ERR_NAME_NOT_RESOLVED

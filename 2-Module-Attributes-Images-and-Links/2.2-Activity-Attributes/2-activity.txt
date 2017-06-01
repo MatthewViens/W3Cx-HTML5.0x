@@ -1,0 +1,8 @@
+Create two paragraphs with the same id and run your code. What happens? We
+know the value of the id attribute must be unique, so why does it behave the
+way it does? Run your code through the W3C Markup Validator. Does it throw an error?
+
+HTML renderers are very forgiving and will permit duplicate ID's. This can still
+cause errors when used with other technologies.
+
+Yes, "Duplicate ID"

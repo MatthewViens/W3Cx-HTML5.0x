@@ -1,0 +1,11 @@
+Check out the W3C HTML Checker:
+- Try "Direct Input" and type some HTML5 code with errors to see what it detects.
+- Using "Validate by URI", try some popular websites and see if you can find any errors.
+
+Gizmodo.com
+
+- No space between attributes
+- Duplicate ID
+- Element source is missing required attribute
+- Bad value
+- An img element must have an alt attribute

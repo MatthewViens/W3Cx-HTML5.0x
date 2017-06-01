@@ -1,0 +1,5 @@
+Look through the Web and your favorite Web sites and identify those that you
+think use a lot of decorative images.
+
+Most popular websites are using icon fonts and styling for decorative purposes
+instead of images.

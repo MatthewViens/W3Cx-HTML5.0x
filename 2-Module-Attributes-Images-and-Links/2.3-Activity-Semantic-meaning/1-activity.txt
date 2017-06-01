@@ -1,0 +1,6 @@
+How are <header> and <h1> related? What is the difference between them?
+
+The <header> element denotes an area and logical grouping of other header
+elements such as logos. The <h1> element is a level one heading, in theory
+serving as a title for the rest of the document. The <header> element can in
+many cases contain the <h1> element.

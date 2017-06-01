@@ -1,0 +1,8 @@
+- Go to archive.org and find the earliest instance of the Web site: www.google.com
+- Note the differences between that and its current Web site.
+- Find an old news story, see how far back you can go (hint: start by looking at yahoo.com).
+- In general, what differences do you notice between Web sites from the 90's and Web sites today?
+
+Websites have become exponentially more complex. Use of graphics has increased
+and the manner in which layouts and images are presented is more appealing.
+There is much more interactivity involved with the client in modern webpages.

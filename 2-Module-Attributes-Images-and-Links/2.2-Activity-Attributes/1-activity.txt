@@ -1,0 +1,3 @@
+Find the list of supported attributes for the <area> tag.
+
+alt, href, target, rel, media, hreflang, type, shape, coords
