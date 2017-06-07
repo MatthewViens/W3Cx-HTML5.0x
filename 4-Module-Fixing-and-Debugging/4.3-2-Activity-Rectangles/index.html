@@ -1,0 +1,53 @@
+<!--
+Create a simple Web page with some rectangles distinguished by their background
+color so you can see them.  You can create the rectangles using spans and/or
+divs, and explicitly setting the width and height.  They need to have some
+content or else they'll be of size 0, so you need to put some text or at least
+an &nbsp; inside, but then you should be able to adjust the height and width
+using CSS.
+
+In the debugger, try modifying the padding, border and margin settings using
+the arrow keys to modify numerical values so you can see how the changing number
+affects the element. Be sure to try border-radius and see if you can create a
+circle or oval.  Be sure to try out some other border attributes like style and
+color.  If you're feeling brave, you could even try border-gradient.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Rectangles</title>
+    <style>
+      div {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        display: inline-block;
+      }
+
+      #red {
+        margin-left: 50px;
+        background-color: rgba(255, 0, 0, .75);
+      }
+
+      #green {
+        margin-left: 25px;
+        margin-top: -50px;
+        background-color: rgba(0, 255, 0, .75);
+      }
+
+      #blue {
+        margin-left: -50px;
+        margin-top: -50px;
+        background-color: rgba(0, 0, 255, .75);
+      }
+    </style>
+  </head>
+  <body>
+    <div id='red'></div>
+    <br>
+    <div id='green'></div>
+    <div id='blue'></div>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+Using your favorite browser, navigate to Wikipedia.org. Using the debugger,
+change the title and header of the page to "My Wikipedia" and change the
+background to light green.
+(Hint: use "Inspect" or "Inspect Element" to bring up the debugger).
+
+In another browser window, open up Wikipedia.org. Does it look like the one
+you've modified? Why or why not? Did you just break Wikipedia for the rest of
+the world?
+
+
+When opening another tab and navigating back to Wikipedia.org, the page is
+redownloaded from the server and looks as you would expect. Changes made
+originally through Chrome Developer Tools are only applied locally.
