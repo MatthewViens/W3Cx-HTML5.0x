@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: aliceblue;
+  width: 20em;
+  margin-left: -8em;
+}
+
+nav:hover {
+  margin-left: 0;
+}
+
+img {
+  width: 250px;
+  border: 5px solid blue;
+  padding: 8px;
+}
+
+article {
+  margin-left: 40px;
+}
+
+h1 {
+  margin: 0;
+  background: #8f8fff;
+  text-align: center;
+}
+
+nav ul {
+  padding: 25px;
+}
+
+table {
+  margin-left: 2em;
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid grey;
+}
+
+td.ingredient {
+  padding-right: 2em;
+  text-align: left;
+}
+
+td.amount {
+  padding-left: 2em;
+  text-align: right;
+}

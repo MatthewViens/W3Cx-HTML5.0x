@@ -1,0 +1,70 @@
+<!--
+Create a simple hover to highlight table that makes the background color of a
+row 'yellow' when you hover over a table row.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Activity 5.2-6</title>
+  <meta charset="utf-8">
+  <style>
+    table {
+      margin: 0 auto;
+      border-collapse: collapse;
+      border: 2px solid white;
+      width: 75%;
+    }
+    td, th {
+      border: 2px solid white;
+      height: 60px;
+      width: 20%;
+    }
+    th {
+      border-bottom: 4px solid white;
+      background-color: CornflowerBlue;
+    }
+    tr:nth-child(odd) {
+      background-color: lightgrey;
+    }
+    tr:nth-child(even) {
+      background-color: lightsteelblue;
+    }
+    tr:hover {
+      background-color: yellow;
+    }
+  </style>
+</head>
+<body>
+  <table border="1">
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td colspan="2"></td>
+    </tr>
+  </table>
+</body>
+</html>

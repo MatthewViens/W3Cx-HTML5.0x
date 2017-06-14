@@ -1,0 +1,27 @@
+<!--
+Embed an audio file in an HTML page with the following requirements:
+- Player has controls to play, pause, seek, etc.
+- Audio must automatically start playing when page loads.
+- Audio must be muted when playback begins.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>5.3 Activity 1</title>
+    <style>
+      video {
+        display: block;
+        margin: 0 auto;
+        width: 75%;
+      }
+    </style>
+  </head>
+  <body>
+    <video controls autoplay muted>
+      <source src="W3Cvid.mp4" type="video/mp4">
+      Video type not supported in your browser
+    </video>
+  </body>
+</html>

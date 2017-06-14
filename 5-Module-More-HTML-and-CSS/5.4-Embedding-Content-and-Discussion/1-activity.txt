@@ -1,0 +1,5 @@
+How can you inform screen readers that you are using an iframe in your Web
+page since iframes have poor accessibility?
+
+he most important things you can do to increase the accessibility of frames is
+to give each frame a descriptive title attribute value.
